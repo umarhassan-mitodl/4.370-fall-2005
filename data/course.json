@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "bcdc0c8d-c082-5295-acea-e8300c43dc72",
+  "instructors": {
+    "content": [
+      "0b0d9d83-939e-c911-eade-f9560126f1bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "76895876-7e63-02f3-e2a1-365ab738d72e",
+    "website": "4-370-interrogative-design-workshop-fall-2005"
+  },
+  "course_title": "Interrogative Design Workshop",
+  "course_description": "\"Parrhesia\" was an Athenian right to frank and open speaking, the right that, like the First Amendment, demands a \"fearless speaker\" who must challenge political powers with criticism and unsolicited advice. Can designer and artist respond today to such a democratic call and demand? Is it possible to do so despite the (increasing) restrictions imposed on our liberties today? Can the designer or public artist operate as a proactive \"parrhesiatic\" agent and contribute to the protection, development and dissemination of \"fearless speaking\" in Public Space?\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.370",
+  "course_image_thumbnail": {
+    "content": "ad2892e1-0afd-cd50-03ca-97b0aedb4b26",
+    "website": "4-370-interrogative-design-workshop-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Image Gallery"
+  ],
+  "site_uid": "0a7fc75f-6254-4d53-b529-4ef5cfc68c76",
+  "site_short_id": "4.370-fall-2005",
+  "site_url_path": "courses/4-370-interrogative-design-workshop-fall-2005",
+  "title": "Course Metadata"
+}
