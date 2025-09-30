@@ -7,6 +7,8 @@ description: Green Skirt/Green Urinal, a tool that would facilitate public urina
 file: /courses/4-370-interrogative-design-workshop-fall-2005/6513a6c9d984d39d91dcd7e4e6225fa1_lee_final.jpg
 file_size: 40176
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Green Skirt/Green Urinal, a tool that would facilitate public urination,
     encourage individuals to shift their perception of their bodies and biological

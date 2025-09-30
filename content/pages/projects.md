@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the information for students to develop there own
   projects along with it some exemplary projects are also presented here.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

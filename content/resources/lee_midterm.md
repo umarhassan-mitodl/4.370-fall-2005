@@ -5,6 +5,8 @@ description: Jae Rhim Lee presents preliminary investigations in her midterm pre
 file: /courses/4-370-interrogative-design-workshop-fall-2005/1189e35725b6c4818be108f80b432b9d_lee_midterm.jpg
 file_size: 38741
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Jae Rhim Lee presents preliminary investigations in her midterm presentation.
   credit: Image courtesy of Jae Rhim Lee.

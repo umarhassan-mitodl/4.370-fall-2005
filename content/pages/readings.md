@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains list of readings associated with the course material.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ Class Introduction - Guest Presentation: Jimmy Chen
 {{< tdopen >}}
 
 
-Foucault, Michel. "{{% resource_link "1f03eee8-3179-42b7-b91e-7fd22dce5570" "Fearless Speech" %}}."
+Foucault, Michel. "[Fearless Speech](https://monoskop.org/images/b/ba/Foucault_Michel_Fearless_Speech.pdf)."
 
 Testimonials.
 
@@ -72,15 +74,15 @@ Introduction to VAP Shop Facilities (Charlie Mathis)
 
 Papanek, Victor. _Design for the real world: human ecology and social change_. Chicago, IL: Academy Chicago, 1985. ISBN: 0897331532.
 
-Mouffe, Chantal. "Which Democracy in a post-political age?" _The Dark Markets: Infopolitics, electronic media and democracy in times of crisis._ lecture series, Public netbase / t0, Wein, October 5, 2002. Video documentation: ({{% resource_link "b3248357-67b4-44b2-a514-ad50a0f52c22" "RAM" %}}) (31/03/2003).
+Mouffe, Chantal. "Which Democracy in a post-political age?" _The Dark Markets: Infopolitics, electronic media and democracy in times of crisis._ lecture series, Public netbase / t0, Wein, October 5, 2002. Video documentation: ([RAM](http://darkmarkets.t0.or.at/video/mouffe.ram)) (31/03/2003).
 
-Dobson, Kelly: {{% resource_link "c3f63842-0d18-4554-b042-51f38c820327" "ScreamBody" %}}.
+Dobson, Kelly: [ScreamBody](https://www.media.mit.edu/events/2009/04/27/kelly-dobson-machine-therapy).
 
 Michael Rakowitz: ParaSITE, RISE.
 
-Wochenklausur: {{% resource_link "2e18ada2-08ca-4959-8687-a643b65a9928" "Art and Sociopolitical Intervention" %}}.
+Wochenklausur: [Art and Sociopolitical Intervention](http://www.wochenklausur.at/methode.php?lang=en).
 
-N55: 3 selections from "Manual for N55." In _N55 Book_. Odder, Denmark: Narayana Press, 2003. ISBN: 8791409055. ({{% resource_link "b1d9e87b-28d1-46b3-8181-6e87785de2e9" "PDF - 8.9 MB" %}})
+N55: 3 selections from "Manual for N55." In _N55 Book_. Odder, Denmark: Narayana Press, 2003. ISBN: 8791409055. ([PDF - 8.9 MB](http://www.n55.dk/N55_BOOK_PDF/N55BOOK.pdf))
 
 
 {{< tdclose >}}
@@ -162,9 +164,9 @@ CAVS Lecture: Vito Acconci Studio
 {{< tdopen >}}
 
 
-Thoreau, Henry David. {{% resource_link "be11e07a-8ba4-4900-95ee-f94e90f25b90" "On Civil Disobedience" %}}.
+Thoreau, Henry David. [On Civil Disobedience](http://www.transcendentalists.com/civil_disobedience.htm).
 
-Critical Arts Ensemble. {{% resource_link "1cf228c7-777b-4494-8541-643b4d9e4f34" "_Electronic Civil Disobedience_" %}}. Brooklyn, NY: Autonomedia, 1995.
+Critical Arts Ensemble. [_Electronic Civil Disobedience_](http://www.critical-art.net/books/ecd/index.html). Brooklyn, NY: Autonomedia, 1995.
 
 Benjamin, Walter. "Critique of Violence." In _Selected Writings Vol. 1: 1913-1926_. Translated by Edmund Jephcott. Cambridge, MA: Belknap Press, 1996. ISBN: 0674945859.
 
@@ -254,7 +256,7 @@ Castells, Manuel. "Immigrant Workers and Class Struggles in Advanced Capitalism.
 
 Levinas, Emanuel. "Cities of Refuge." In _Beyond the Verse: Talmudic Readings and Lectures_. London, UK: Athlone Press, 1994. ISBN: 0485114305.
 
-{{% resource_link "e0cdf7f5-6878-4861-9842-24f8747efdc4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Deutsche, Rosalyn. _Evictions: Art and Spatial Politics_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262041584.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041584) Deutsche, Rosalyn. _Evictions: Art and Spatial Politics_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262041584.
 
 Hannah Arendt. (Selected readings.)
 
@@ -314,7 +316,7 @@ Guest Presentation
 {{< tdopen >}}
 
 
-N55. "{{% resource_link "2b454f72-471f-4854-840e-448eee8dbd61" "Art and Reality" %}}," and "{{% resource_link "e9526505-cac8-4d47-82bf-8a298a35bf4a" "N55 Manual" %}}."
+N55. "[Art and Reality](http://www.n55.dk/MANUALS/DISCUSSIONS/N55_TEXTS/art_reality.html)," and "[N55 Manual](http://www.n55.dk/MANUALS/N55/n55.html)."
 
 Fuller, Buckminster. _Utopia or Oblivion_. New York, NY: Bantam Books, 1969. ISBN: 0553028839.
 

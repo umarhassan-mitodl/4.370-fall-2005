@@ -5,6 +5,8 @@ description: "Bren Galvez-Moretti's midterm presentation. Image courtesy of Bren
 file: /courses/4-370-interrogative-design-workshop-fall-2005/4414b71e6f25d5669c96334b2e756eea_moretti_midterm.jpg
 file_size: 30922
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Bren Galvez-Moretti's midterm presentation.
   credit: Image courtesy of Bren Galvez-Moretti.

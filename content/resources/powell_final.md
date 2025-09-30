@@ -4,6 +4,8 @@ description: Michael Powell's final presentation. Image courtesy of Michael Powe
 file: /courses/4-370-interrogative-design-workshop-fall-2005/b0ddf480e08366c7852cfba32b633a50_powell_final.jpg
 file_size: 38111
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Michael Powell's final presentation.
   credit: Image courtesy of Michael Powell.

@@ -5,6 +5,8 @@ description: This resource provides information about the wonderbox which is a c
 file: /courses/4-370-interrogative-design-workshop-fall-2005/b57d3a020fc2c3a498c67f2420f07679_hope_ginsburg.pdf
 file_size: 229513
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

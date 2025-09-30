@@ -5,6 +5,8 @@ description: This resource contains the project report on dis/mantle which inclu
 file: /courses/4-370-interrogative-design-workshop-fall-2005/1e6a4de7c16f5238bef4a5026d778c20_marissa_jahn.pdf
 file_size: 970269
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

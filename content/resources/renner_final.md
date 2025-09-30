@@ -4,6 +4,8 @@ description: Casey Renner's final presentation. Image courtesy of Casey Renner.
 file: /courses/4-370-interrogative-design-workshop-fall-2005/17b2aa692b4eefb782f7f4802b677165_renner_final.jpg
 file_size: 38135
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Casey Renner's final presentation.
   credit: Image courtesy of Casey Renner.
