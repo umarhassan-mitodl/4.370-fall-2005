@@ -5,8 +5,6 @@ description: This resource provides the information on random search which is co
 file: /courses/4-370-interrogative-design-workshop-fall-2005/91836e0774385c5ab7996b6bba70e204_ayah_bdeir.pdf
 file_size: 90576
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

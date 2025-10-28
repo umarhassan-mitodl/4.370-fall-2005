@@ -5,8 +5,6 @@ description: This resource contains the project report focusing on the act of ut
 file: /courses/4-370-interrogative-design-workshop-fall-2005/44643617abdcb8578374aab432bcd212_kate_james.pdf
 file_size: 4801276
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

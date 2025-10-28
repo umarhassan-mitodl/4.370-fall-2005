@@ -4,8 +4,6 @@ description: Casey Renner's midterm presentation. Image courtesy of Casey Renner
 file: /courses/4-370-interrogative-design-workshop-fall-2005/7c37cd82b04a16a682f2d2f082642c31_renner_midterm.jpg
 file_size: 24426
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Casey Renner's midterm presentation.
   credit: Image courtesy of Casey Renner.

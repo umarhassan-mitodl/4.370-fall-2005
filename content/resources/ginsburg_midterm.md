@@ -4,8 +4,6 @@ description: Hope Ginsberg's midterm presentation. Image courtesy of Hope Ginsbu
 file: /courses/4-370-interrogative-design-workshop-fall-2005/7b84e6a585b6c13f39c9d4f636967deb_ginsburg_midterm.jpg
 file_size: 33562
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Hope Ginsberg's midterm presentation.
   credit: Image courtesy of Hope Ginsburg.

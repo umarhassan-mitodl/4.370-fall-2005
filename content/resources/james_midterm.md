@@ -7,8 +7,6 @@ description: 'Kate James presents her midterm exploration: a skirt which is empl
 file: /courses/4-370-interrogative-design-workshop-fall-2005/a7b6cd77fa6b594743f0d390d7991674_james_midterm.jpg
 file_size: 28756
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: 'Kate James presents her midterm exploration: a skirt which is employed
     both to provide an isolated space for the wearer while also extended to suggest

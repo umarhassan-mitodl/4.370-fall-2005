@@ -6,8 +6,6 @@ description: Hope Ginsberg presenting her final project, "Wonderbox," which is a
 file: /courses/4-370-interrogative-design-workshop-fall-2005/7b8988f71371ba302e8bdd5323e17a93_ginsburg_final.jpg
 file_size: 38986
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Hope Ginsberg presenting her final project, "Wonderbox," which is a portable
     cardboard case that can be reconfigured into a variety of shapes and spaces.

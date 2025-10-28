@@ -5,8 +5,6 @@ description: This resource provides information on urban/landscape, deployment, 
 file: /courses/4-370-interrogative-design-workshop-fall-2005/cb3369f8ccefe62c169d19bcfe17bd39_casey_renner.pdf
 file_size: 2089654
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
