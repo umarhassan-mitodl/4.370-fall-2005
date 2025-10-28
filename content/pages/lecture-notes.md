@@ -21,4 +21,4 @@ In addition to attending regularly scheduled lectures, students were encouraged 
 
 {{% resource_link "66cf993d-318b-1949-2115-60ed4ec42e8c" "Simon Starling, March 9, 2006" %}}
 
-Note: These files are also available from [YouTube](http://youtube.com/view_play_list?p=D4AC203F9610E412) and the Internet Archive in two collections- [Sessions 7-20](https://archive.org/details/MIT4.370F05/) and [Simon Starling](http://archive.org/details/MIT4.367S06/).
+Note: These files are also available from {{% resource_link "adf1c5a2-cd56-4c11-8bb4-18e550ec4f86" "YouTube" %}} and the Internet Archive in two collections- {{% resource_link "4aae9009-1482-4197-89ea-cae58f7ad0f8" "Sessions 7-20" %}} and {{% resource_link "79894492-ad46-446d-b6a0-a25940c1bf92" "Simon Starling" %}}.
